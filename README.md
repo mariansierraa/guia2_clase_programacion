@@ -1,3 +1,2 @@
 # Guia 2 Curso Programación para la ciencia de datos
-En este repositorio se encuentra la Guía No. 2 resuelta en el archivo Guia_2.ipynb. Para la resolución de esta se usó la base de datos telecom_churn
-Prueba
+En este repositorio se encuentra la Guía No. 2 resuelta en el archivo Guia_2.ipynb. Para la resolución de esta se usó la base de datos telecom_churn y la librería de pandas para la exploración de los datos.
